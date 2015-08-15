@@ -1,4 +1,3 @@
 My Awesome Book
 =======
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这本书是我个人一生的总结，献给伟大的祖国母亲
